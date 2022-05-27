@@ -13,7 +13,7 @@ namespace API.Controllers
     public class UserController : ControllerBase
     {
 
-        // Database field
+        // Database field 
         private readonly DataContext _context;
 
         
