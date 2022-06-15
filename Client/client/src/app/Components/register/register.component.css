@@ -1,0 +1,29 @@
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+}
+.w-100{
+    width: 100%!important;
+}
+
+.m-auto{
+    margin: auto!important;
+}
+
+main{
+    display: block;
+}
+
+.wrapper {
+    
+    display: inline-block;
+    
+}
+
+.navDisplay{
+    display: inline
+}
+
+.navhidden{
+    display: none;
+}

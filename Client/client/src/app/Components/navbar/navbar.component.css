@@ -1,0 +1,40 @@
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+}
+.w-100{
+    width: 100%!important;
+}
+
+.m-auto{
+    margin: auto!important;
+}
+
+main{
+    display: block;
+}
+
+.navhidden{
+    display: none;
+
+}
+.navDisplay{
+    display: inline
+}
+.left{
+    float: left;
+}
+.login-right {
+    display:flex; 
+    justify-content:flex-end; 
+    width:90%; padding:0
+    
+  }
+
+  .flex-box-2 {
+    display:flex; 
+    justify-content:flex-end; 
+    padding:0;
+    width: 900%;
+    
+  }
